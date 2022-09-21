@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\AutoMechanism\obj\Debug\net6.0\AutoMechanism.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\AutoMechanism\obj\Debug\net6.0\AutoMechanism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\AutoMechanism\obj\Debug\net6.0\AutoMechanism.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\AutoMechanism\obj\Debug\net6.0\AutoMechanism.AssemblyInfo.cs
+C:\Users\Admin\source\repos\AutoMechanism\obj\Debug\net6.0\AutoMechanism.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AutoMechanism\bin\Debug\net6.0\AutoMechanism.exe
+C:\Users\Admin\source\repos\AutoMechanism\bin\Debug\net6.0\AutoMechanism.deps.json
+C:\Users\Admin\source\repos\AutoMechanism\bin\Debug\net6.0\AutoMechanism.runtimeconfig.json
+C:\Users\Admin\source\repos\AutoMechanism\bin\Debug\net6.0\AutoMechanism.dll
+C:\Users\Admin\source\repos\AutoMechanism\bin\Debug\net6.0\AutoMechanism.pdb
+C:\Users\Admin\source\repos\AutoMechanism\obj\Debug\net6.0\AutoMechanism.dll
+C:\Users\Admin\source\repos\AutoMechanism\obj\Debug\net6.0\refint\AutoMechanism.dll
+C:\Users\Admin\source\repos\AutoMechanism\obj\Debug\net6.0\AutoMechanism.pdb
+C:\Users\Admin\source\repos\AutoMechanism\obj\Debug\net6.0\AutoMechanism.genruntimeconfig.cache
+C:\Users\Admin\source\repos\AutoMechanism\obj\Debug\net6.0\ref\AutoMechanism.dll
